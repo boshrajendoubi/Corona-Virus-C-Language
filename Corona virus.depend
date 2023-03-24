@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1619992479 source:c:\users\nassim salhi\desktop\corona virus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619977601 c:\users\nassim salhi\desktop\corona virus\eltprim.h
+	"ELTSDD.h"
+
+1616518769 c:\users\nassim salhi\desktop\corona virus\eltsdd.h
+	"ELTJOUR.h"
+
+1619910931 c:\users\nassim salhi\desktop\corona virus\eltjour.h
+
+1619989185 source:c:\users\nassim salhi\desktop\corona virus\eltjour.c
+	<stdio.h>
+	<malloc.h>
+	<windows.h>
+	"ELTPRIM.H"
+
+1616588651 source:c:\users\nassim salhi\desktop\corona virus\eltjour.h
+
+1616518769 source:c:\users\nassim salhi\desktop\corona virus\eltprim.h
+	"ELTSDD.h"
+
+1616518769 source:c:\users\nassim salhi\desktop\corona virus\eltsdd.h
+	"ELTJOUR.h"
+
+1619992612 source:c:\users\nassim salhi\desktop\corona virus\lstjour.c
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619989981 c:\users\nassim salhi\desktop\corona virus\lstprim.h
+	"LSTSDD.H"
+	"ELTPRIM.h"
+
+1616521549 c:\users\nassim salhi\desktop\corona virus\lstsdd.h
+	"LSTJOUR.h"
+
+1617023603 c:\users\nassim salhi\desktop\corona virus\lstjour.h
+	"ELTPRIM.h"
+
+1616586493 source:c:\users\nassim salhi\desktop\corona virus\lstjour.h
+	"ELTPRIM.h"
+
+1616586453 source:c:\users\nassim salhi\desktop\corona virus\lstprim.h
+	"LSTSDD.H"
+	"ELTPRIM.h"
+
+1616521549 source:c:\users\nassim salhi\desktop\corona virus\lstsdd.h
+	"LSTJOUR.h"
+

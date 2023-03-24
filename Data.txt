@@ -1,0 +1,126 @@
+Date               Gouvernorat Cas positifs Guerisons Deces Nombre de vaccines
+date 1
+10 Juin 2021      Ariana             50                30              10         200
+16 Mars 2021        Beja               40                20               5          100
+10 Mars 2021   Ben Arous          50                40               7          200 
+10 Mars 2021      Bizerte             50                30              10         200
+10 Mars 2021        Gabes             40                20               5          100
+10 Mars 2021        Gafsa             50                40               7          200 
+10 Mars 2021      Jendouba         50                30              10         200
+10 Mars 2021        Kairouan       40                20               5          100
+10 Mars 2021   Kasserine           50                40               7          200 
+10 Mars 2021     Kebili               50                30              10         200
+10 Mars 2021     La Manouba    40                20               5          100
+10 Mars 2021   Le Kef               50                40               7          200 
+10 Mars 2021      Mahdia          50                30              10         200
+10 Mars 2021       Medenine     40                20               5          100
+10 Mars 2021   Monastir          50                40               7          200 
+10 Mars 2021      Nabeul           50                30              10         200
+10 Mars 2021       Sfax              40                20               5          100
+10 Mars 2021   Sidi Bouzid      50                40               7          200       
+10 Mars 2021      Siliana           30                25               7          200
+10 Mars 2021       Sousse          50                20               7          100
+10 Mars 2021   Tataouine        50                40              10         200
+10 Mars 2021    Tozeur            45                 30              10        200
+10 Mars 2021     Tunis              45                 25               5         150
+10 Mars 2021    Zaghouan      45                 30              10        300
+date 2                                        ****
+20 Mars 2021      Ariana             50                30              10         200
+11 Mars 2021        Beja               40                20               5          100
+11 Mars 2021   Ben Arous          50                40               7          200 
+11 Mars 2021      Bizerte             50                30              10         200
+11 Mars 2021        Gabes             40                20               5          100
+11 Mars 2021        Gafsa             50                40               7          200 
+11 Mars 2021      Jendouba         50                30              10         200
+11 Mars 2021        Kairouan       40                20               5          100
+11 Mars 2021   Kasserine           50                40               7          200 
+11 Mars 2021     Kebili               50                30              10         200
+11 Mars 2021     La Manouba    40                20               5          100
+11 Mars 2021   Le Kef               50                40               7          200 
+11 Mars 2021      Mahdia          50                30              10         200
+11 Mars 2021       Medenine     40                20               5          100
+11 Mars 2021   Monastir          50                40               7          200 
+11 Mars 2021      Nabeul           50                30              10         200
+11 Mars 2021       Sfax              40                20               5          100
+11 Mars 2021   Sidi Bouzid      50                40               7          200       
+11 Mars 2021      Siliana           30                25               7          200
+11 Mars 2021       Sousse          50                20               7          100
+11 Mars 2021   Tataouine        50                40              10         200
+11 Mars 2021    Tozeur            45                 30              10        200
+11 Mars 2021     Tunis              45                 25               5         150
+11 Mars 2021    Zaghouan      45                 30              10        300
+date 3                                             ****
+12 Mars 2021      Ariana             43                30              10         200
+12 Mars 2021        Beja               40                20               5          100
+12 Mars 2021   Ben Arous          50                40               7          300 
+12 Mars 2021      Bizerte             50                12              10         200
+12 Mars 2021        Gabes             47                20               5          100
+12 Mars 2021        Gafsa             50                40               6          200 
+12 Mars 2021      Jendouba         54                30              10         200
+12 Mars 2021        Kairouan       40                20               5          100
+12 Mars 2021   Kasserine           50                40               7          200 
+12 Mars 2021     Kebili               13                30              10         200
+12 Mars 2021     La Manouba    40                20               5          100
+12 Mars 2021   Le Kef               50                40               8          200 
+12 Mars 2021      Mahdia          50                30              10         201
+12 Mars 2021       Medenine     12                20               5          100
+12 Mars 2021   Monastir          50                40               7          202 
+12 Mars 2021      Nabeul           50                13             10         200
+12 Mars 2021       Sfax              40                20               5          100
+12 Mars 2021   Sidi Bouzid      50                40               7          200       
+12 Mars 2021      Siliana           89                25               7          200
+12 Mars 2021       Sousse          12               20               7          100
+12 Mars 2021   Tataouine        50                40              10         200
+12 Mars 2021    Tozeur            45                 30              10        200
+12 Mars 2021     Tunis              45                 25               5         150
+12 Mars 2021    Zaghouan      45                 30              10        300
+date 5                                             ****
+13 Mars 2021      Ariana             50                30              10         200
+13 Mars 2021        Beja               40                20               5          100
+13 Mars 2021   Ben Arous          50                40               7          200 
+13 Mars 2021      Bizerte             50                30              10         200
+13 Mars 2021        Gabes             40                20               5          100
+13 Mars 2021        Gafsa             50                40               7          200 
+13 Mars 2021      Jendouba         50                30              10         200
+13 Mars 2021        Kairouan       40                20               5          100
+13 Mars 2021   Kasserine           50                40               7          200 
+13 Mars 2021     Kebili               50                30              10         200
+13 Mars 2021     La Manouba    40                20               5          100
+13 Mars 2021   Le Kef               50                40               7          200 
+13 Mars 2021      Mahdia          50                30              10         200
+13 Mars 2021       Medenine     40                20               5          100
+13 Mars 2021   Monastir          50                40               7          200 
+13 Mars 2021      Nabeul           50                30              10         200
+13 Mars 2021       Sfax              40                20               5          100
+13 Mars 2021   Sidi Bouzid      50                40               7          200       
+13 Mars 2021      Siliana           30                25               7          200
+13 Mars 2021       Sousse          50                20               7          100
+13 Mars 2021   Tataouine        50                40              10         200
+13 Mars 2021    Tozeur            45                 30              10        200
+13 Mars 2021     Tunis              45                 25               5         150
+13 Mars 2021    Zaghouan      45                 30              10        300
+date 6                                             ****
+14 Mars 2021      Ariana             50                30              10         200
+14 Mars 2021        Beja               40                20               5          100
+14 Mars 2021   Ben Arous          50                40               7          200 
+14 Mars 2021      Bizerte             50                30              10         200
+14 Mars 2021        Gabes             40                20               5          100
+14 Mars 2021        Gafsa             50                40               7          200 
+14 Mars 2021      Jendouba         50                30              10         200
+14 Mars 2021        Kairouan       40                20               5          100
+14 Mars 2021   Kasserine           50                40               7          200 
+14 Mars 2021     Kebili               50                30              10         200
+14 Mars 2021     La Manouba    40                20               5          100
+14 Mars 2021   Le Kef               50                40               7          200 
+14 Mars 2021      Mahdia          50                30              10         200
+14 Mars 2021       Medenine     40                20               5          100
+14 Mars 2021   Monastir          50                40               7          200 
+14 Mars 2021      Nabeul           50                30              10         200
+14 Mars 2021       Sfax              40                20               5          100
+14 Mars 2021   Sidi Bouzid      50                40               7          200       
+14 Mars 2021      Siliana           30                25               7          200
+14 Mars 2021       Sousse          50                20               7          100
+14 Mars 2021   Tataouine        50                40              10         200
+14 Mars 2021    Tozeur            45                 30              10        200
+14 Mars 2021     Tunis              45                 25               5         150
+14 Mars 2021    Zaghouan      45                 30              10        300
